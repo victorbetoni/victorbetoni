@@ -1,6 +1,6 @@
-<h1 align="center">Currently studying IT at Unicamp Technical College in Limeira.</h1>
+<h2 align="center">Welcome to my profile <3</h2>
 <h3 align="center">In love with λ programming and JVM. Another dreamer teenager.</h3>
-<img src="https://thumbs.gfycat.com/ElasticLightheartedFlies-mobile.mp4">
+<img src="https://thumbs.gfycat.com/ElasticLightheartedFlies-mobile.gif">
 <h6>Obrigada por tornar meu sonho realidade. Obrigada. Eu sinto que testemunhei um milagre. Não acredito que Deus exista mas, se existir, tem certamente que ser você.</h6>
 
 <!--
