@@ -1,8 +1,5 @@
-<div align="center">
-  <h3 align="center">In love with λ programming and JVM. Another dreamer teenager.</h3>
-  <h6 align="center">Sometimes pushing random stuff I do on my laptop.</h6>
-  <img align="middle" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F78.media.tumblr.com%2Fe8bef5aa5b0e40ac9a7cfc70913dfe6d%2Ftumblr_p2r73breut1vtm42eo1_540.gif&f=1&nofb=1">
-</div>
+<h3 align="center">In love with λ programming and JVM. Another dreamer teenager.</h3>
+<h6 align="center">Sometimes pushing random stuff I do on my laptop.<br>Currently studying IT in Unicamp's Technical College in Limeira.</h6>
 
 <!--
 **threadlly/threadlly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
