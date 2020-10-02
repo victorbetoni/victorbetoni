@@ -1,5 +1,7 @@
-### Currently studying computer science at Unicamp Technical College in Limeira.
-### Passionate about functional programming and JVM. I'm mainly Java developer, but Clojure and Scala excite me <3
+<h1 align="center">Currently studying IT at Unicamp Technical College in Limeira.</h1>
+<h3 align="center">In love with λ programming and JVM. Another dreamer teenager.</h3>
+<img src="https://thumbs.gfycat.com/ElasticLightheartedFlies-mobile.mp4">
+<h6>Obrigada por tornar meu sonho realidade. Obrigada. Eu sinto que testemunhei um milagre. Não acredito que Deus exista mas, se existir, tem certamente que ser você.</h6>
 
 <!--
 **threadlly/threadlly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
