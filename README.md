@@ -1,7 +1,10 @@
-### Hi there 👋
+### Currently studying computer science at Unicamp Technical College in Limeira.
+### Passionate about functional programming and JVM. I'm mainly Java developer, but Clojure and Scala excite me <3
 
 <!--
 **threadlly/threadlly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
