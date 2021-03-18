@@ -1,4 +1,4 @@
-<h3 align="center">In love with λ programming and JVM. Another dreamer teenager.</h3>
+<h3 align="center">In love with λ programming and JVM. Trying my best.</h3>
 <h6 align="center">Sometimes pushing random stuff I do on my laptop.<br>Currently studying IT in Unicamp's Technical College in Limeira.</h6>
 
 <!--
