@@ -1,6 +1,6 @@
 <h3 align="center">Computing and programming enthusiast. Trying my best.</h3>
 <h6 align="center">Sometimes pushing random stuff I do on my laptop.<br>Currently studying Systems Development in Unicamp's Technical College in Limeira.</h6>
-<br><br>
+<br>
 <h6 align="center">Interested in software automation. JVM and functional programming lover</h6>
 
 <!--
