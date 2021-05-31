@@ -1,7 +1,6 @@
 <h3 align="center">Computing and programming enthusiast. Trying my best.</h3>
-<h6 align="center">Sometimes pushing random stuff I do on my laptop. Currently studying Systems Development in Unicamp's Technical College in Limeira.</h6>
-<h6 align="center">Interested in software automation and JVM ecosystem. Currently studying Scala, machine learning and Devops concepts.</h6>
-<h6 align="center">I'm also a functional programming lover</h6>
+<h6 align="center">Sometimes pushing random stuff I do on my laptop.<br> Currently studying Systems Development in Unicamp's Technical College in Limeira.</h6>
+<h6 align="center">Interested in software automation and JVM ecosystem.<br>Now learning Scala, machine learning and Devops concepts<br>I'm also a functional programming lover.</h6>
 
 <!--
 **threadlly/threadlly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
