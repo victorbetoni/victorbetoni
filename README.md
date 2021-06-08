@@ -3,7 +3,7 @@
 <h6 align="left">Interested in software automation and JVM ecosystem.<br>Learning Scala, machine learning and Devops concepts<br>I'm also a functional programming lover.</h6>
 
 <div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=localthreader&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=localthreader&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=localthreader&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
