@@ -1,5 +1,5 @@
 <h3 align="left">Computing and programming enthusiast</h3>
-<h6 align="left">Sometimes pushing random stuff I do on my laptop.<br> Currently studying Systems Development in Unicamp's Technical School in Limeira.</h6>
+<h6 align="left">Sometimes pushing random stuff I do on my laptop.<br> Currently in high school and studying Systems Development in Unicamp's Technical School in Limeira.</h6>
 <h6 align="left">Interested in software automation and JVM ecosystem.<br>Learning Scala, ML and DevOps concepts<br>I'm also a functional programming lover and a guitarist in free time.</h6>
 
 <div>
