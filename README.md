@@ -2,7 +2,7 @@
 <h6 align="left">Sometimes pushing random stuff I do on my laptop.<br> Currently in high school and studying Systems Development in Unicamp's Technical School in Limeira.</h6>
 <h6 align="left">Interested in software automation and JVM ecosystem.<br>Learning Scala, ML and DevOps concepts<br>I'm also a functional programming lover and a free time guitar player.</h6>
 
-<div>
+<div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=localthreader&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=localthreader&layout=compact&langs_count=16&theme=dracula"/>
 </div>
