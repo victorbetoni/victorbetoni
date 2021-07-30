@@ -6,6 +6,12 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=localthreader&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=localthreader&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-hugo-betoni-6a9312215/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
+</p>
   
 <!--
 **threadlly/threadlly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
