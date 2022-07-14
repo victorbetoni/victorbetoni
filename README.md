@@ -4,8 +4,8 @@
 <h6 align="center">Acting as fullstack developer and devops in Starbuy Commerce (my degree final project)</h6>
 
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=localthreader&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=localthreader&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=victorbetoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbetoni&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <p align="center">
