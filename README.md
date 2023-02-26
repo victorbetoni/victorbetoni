@@ -1,7 +1,6 @@
 <h3 align="center">Computing and programming enthusiast</h3>
-<h6 align="center">Sometimes pushing random stuff I do on my laptop.<br> Currently in high school and studying Systems Development in COTIL (20-22)<br>Working with the following languages and technologies: Java, GoLang, Kafka, gRPC and Kubernetes</h6>
+<h6 align="center">Sometimes pushing random stuff I do on my laptop.<br>Systems Development - COTIL (20-22)<br>Working with the following languages and technologies: Java, GoLang, Kafka, gRPC and Kubernetes</h6>
 <h6 align="center">Interested in software automation and JVM ecosystem.<br>Functional programming lover and a free time guitar player.<br>You can check my LinkedIn bellow</h6>
-<h6 align="center">Acting as fullstack developer and devops in Starbuy Commerce (my degree final project)</h6>
 
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=victorbetoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
