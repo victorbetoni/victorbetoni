@@ -1,5 +1,4 @@
 <h6 align="center">Sometimes pushing random stuff I do on my laptop.<br>Systems Development - COTIL (20-22)</h6>
-<h6 align="center">I currently work as a software developer at Zucchetti.
 <h6 align="center">Interested in software architecture and engineering<br>Free time guitarist and gamer.<br>You can check my LinkedIn bellow</h6>
 
 
