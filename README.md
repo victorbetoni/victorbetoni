@@ -1,4 +1,4 @@
-<h6 align="center">Sometimes pushing random stuff I do on my laptop.<br>Systems Development - COTIL (20-22)</h6>
+<h6 align="center">Sometimes pushing random stuff I do on my laptop.<br>Systems Development - COTIL (20-22)<br>Systems Analysis and Development - UFPR (24-26)</h6>
 <h6 align="center">Interested in software architecture and engineering<br>Free time guitarist and gamer.<br>You can check my LinkedIn bellow</h6>
 
 
